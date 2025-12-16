@@ -37,7 +37,7 @@ MongoDB Atlas Setup (Step-by-Step)
 
 1.Create MongoDB Atlas Account
 
-1. Go to 👉 [https://www.mongodb.com/cloud/atlas](https://www.mongodb.com/cloud/atlas)
+1. Go to  [https://www.mongodb.com/cloud/atlas](https://www.mongodb.com/cloud/atlas)
 2. Click **Sign Up**
 3. Login using Google or Email
 
@@ -138,7 +138,7 @@ await students.deleteOne({ name: "Dev" });
 
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### 1 Create Project Folder
 
